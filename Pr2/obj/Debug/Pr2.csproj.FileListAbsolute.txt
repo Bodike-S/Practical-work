@@ -1,0 +1,7 @@
+F:\C#\Practical-work\Pr2\bin\Debug\Pr2.exe.config
+F:\C#\Practical-work\Pr2\bin\Debug\Pr2.exe
+F:\C#\Practical-work\Pr2\bin\Debug\Pr2.pdb
+F:\C#\Practical-work\Pr2\obj\Debug\Pr2.csproj.AssemblyReference.cache
+F:\C#\Practical-work\Pr2\obj\Debug\Pr2.csproj.CoreCompileInputs.cache
+F:\C#\Practical-work\Pr2\obj\Debug\Pr2.exe
+F:\C#\Practical-work\Pr2\obj\Debug\Pr2.pdb

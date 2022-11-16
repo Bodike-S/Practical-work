@@ -10,6 +10,13 @@ namespace Pr2
     {
         static void Main(string[] args)
         {
+            Science science1 = new Mathematics();
+            Science science2 = new Physics();
+            Science science3 = new Science();
+
+            science1.Awards();
+            science2.Awards();
+            science3.Awards();
         }
     }
 }

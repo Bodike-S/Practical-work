@@ -47,8 +47,11 @@
     <Compile Include="Developer.cs" />
     <Compile Include="Employee.cs" />
     <Compile Include="Lory.cs" />
+    <Compile Include="Mathematics.cs" />
+    <Compile Include="Physics.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Science.cs" />
     <Compile Include="SportCar.cs" />
     <Compile Include="Tester.cs" />
   </ItemGroup>
