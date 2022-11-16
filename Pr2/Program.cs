@@ -10,7 +10,6 @@ namespace Pr2
     {
         static void Main(string[] args)
         {
-
         }
     }
 }
