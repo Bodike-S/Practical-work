@@ -13,5 +13,12 @@ namespace Pr2
         {
             isAuthomation = _isAuthomation;
         }
+        public override void ShowInfo()
+        {
+            if(isAuthomation)
+                Console.WriteLine($"{name} is authomated tester and has {Experience()} year(s) of experience");
+            else
+                Console.WriteLine($"{name} is manual tester and has {Experience()} year(s)of experience");
+        }
     }
 }
