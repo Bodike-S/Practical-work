@@ -6,6 +6,15 @@ using System.Threading.Tasks;
 
 namespace Pr3
 {
+    public static class ExtensionMethods
+    {
+        public static int CountWords(this string s)
+        {
+            return s.Split(" .?!-;,:".ToCharArray(),
+                StringSplitOptions.RemoveEmptyEntries).Length;
+        }   
+    }
+
     public delegate double CalcDelegate(double a, double b, char SymOperation);
     class Program
     {
@@ -30,7 +39,8 @@ namespace Pr3
             };
             return res;
         }
-        static void Main(string[] args)
+        
+            static void Main(string[] args)
         {
             CalcDelegate funcCalc =Calc;
             CalcProgram calc = new CalcProgram();
