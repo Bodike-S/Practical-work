@@ -1,0 +1,2 @@
+F:\C#\Practical-work\Pr3\obj\Debug\Pr3.csproj.AssemblyReference.cache
+F:\C#\Practical-work\Pr3\obj\Debug\Pr3.csproj.CoreCompileInputs.cache
