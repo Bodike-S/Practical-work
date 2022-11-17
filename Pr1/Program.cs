@@ -12,8 +12,6 @@ namespace Pr1
     {
         static void Main(string[] args)
         {
-            int year = DateTime.Now.Year;
-            Console.WriteLine(year);
         }
     }
 }
