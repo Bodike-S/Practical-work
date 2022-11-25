@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Pr4
+namespace Pr4_T1
 {
     class Shark:IAnimal, ISwimmable
     {
