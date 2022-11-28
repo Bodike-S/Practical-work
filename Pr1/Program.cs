@@ -12,6 +12,9 @@ namespace Pr1
     {
         static void Main(string[] args)
         {
+            DisposePatternImplementer t = new DisposePatternImplementer();
+            t.Dispose();
+            DisposePatternImplementer f = new DisposePatternImplementer();
         }
     }
 }
